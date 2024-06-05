@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace try_c.BankApp
+namespace C_sharp_App_ArielM.BankApp
 {
     internal class BankAppMain
     {
