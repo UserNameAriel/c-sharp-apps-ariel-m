@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace try_c.DraftApp
+namespace C_sharp_App_ArielM.DraftApp
 {
     internal class DraftAppMain
     {

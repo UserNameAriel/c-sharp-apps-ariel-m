@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using try_c.BankApp;
-using try_c.DraftApp;
-using try_c.SportApp;
-using try_c.TransportationApp;
+using C_sharp_App_ArielM.BankApp;
+using C_sharp_App_ArielM.DraftApp;
+using C_sharp_App_ArielM.SportApp;
+using C_sharp_App_ArielM.TransportationApp;
 
-namespace try_c.PrimeMain
+namespace C_sharp_App_ArielM.PrimeMain
 {
     internal class RunMain
     {
