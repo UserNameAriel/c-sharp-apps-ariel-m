@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace C_sharp_App_ArielM.SportApp
 {
-    internal class Team
+    public class Team
     {
         public string Name { get; set; }
         public string city { get; set; }
