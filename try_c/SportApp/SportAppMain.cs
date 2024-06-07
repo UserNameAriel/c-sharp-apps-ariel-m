@@ -10,7 +10,7 @@ namespace C_sharp_App_ArielM.SportApp
     {
         public static void MainEntry()
         {
-            Console.WriteLine("SportApp");
+            TestSport.Test1();
         }
     }
 }

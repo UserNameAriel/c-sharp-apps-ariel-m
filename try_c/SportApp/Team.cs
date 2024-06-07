@@ -21,21 +21,24 @@ namespace C_sharp_App_ArielM.SportApp
         public int goalAgainst { get; set; }
         public int goalDifferential { get; set; }
 
-        public Team(string name, string city, string liga, int total_game, int played_game, int win, int lose, bool teiko, int point, int goalsFor, int goalsaGainst, int goalsDiferrencial)
+        public Team(string name, string city)
         {
             this.Name = name;
             this.city = city;
-            this.CurrentLiga = liga;
-            this.sumGamse = total_game;
-            this.PlayedGame = played_game;
-            this.wins = win;
-            this.looses = lose;
-            this.teko = teiko;
-            this.points = point;
-            this.goalsfor = goalsFor;
-            this.goalAgainst = goalsaGainst;
-            this.goalDifferential = goalsDiferrencial;
+           
+          
         }
-
+        public string GetName()
+        {
+            return this.Name;
+        }
+        public string GetCity()
+        {
+            return this.city;
+        }
+        public int GetPoints()
+        {
+            return this.points;
+        }
     }
 }
