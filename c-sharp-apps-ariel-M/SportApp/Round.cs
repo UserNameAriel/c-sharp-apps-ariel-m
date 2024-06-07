@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace C_sharp_App_ArielM.SportApp
 {
-    internal class SportAppMain
+    internal class Round
     {
-        public static void MainEntry()
-        {
-            Console.WriteLine("SportApp");
-        }
+        private Game[] gamse;
     }
 }
