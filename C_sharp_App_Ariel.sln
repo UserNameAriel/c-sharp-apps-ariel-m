@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C_sharp_App_ArielM", "try_c\C_sharp_App_ArielM.csproj", "{A43B78D5-7DB6-42E0-9BBB-158F206BC2AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "c-sharp-apps-ariel-M", "try_c\c-sharp-apps-ariel-M.csproj", "{A43B78D5-7DB6-42E0-9BBB-158F206BC2AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
