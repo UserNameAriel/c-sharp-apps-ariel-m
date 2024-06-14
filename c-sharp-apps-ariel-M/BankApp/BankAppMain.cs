@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace C_sharp_App_ArielM.BankApp
 {
-    internal class BankAppMain
+    public class BankAppMain
     {
         public static void MainEntry()
         {
             Console.WriteLine("BankApp");
+            TestAccount.Test1();
         }
+        
     }
 }
